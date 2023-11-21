@@ -1,0 +1,31 @@
+body{
+   background-color: beige;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    text-align: center;
+}
+h2{ text-align: center;}
+h4{ text-align: center; padding-top: 50px; padding-bottom: 50px;}
+#seccion1{ padding-left: 70px; padding-right: 120;}
+ul{
+    list-style:none;
+}
+#seccion2{
+    padding-left: 70px; padding-right: 120;
+}
+#seccion3{
+    padding-left: 70px; padding-right: 120;
+}
+.avion2{
+    padding-left: 50px;
+}
+
+.avion3{
+    text-align: center;
+}
+.lista{ text-align: center;}
+
+footer{
+    background-color: blanchedalmond;
+}
